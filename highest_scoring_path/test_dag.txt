@@ -1,0 +1,9 @@
+#from_Node	#to_Node	#Score
+a	b	0.5
+a	c	0.25
+a	d	0.6
+a	e	0.8
+b	d	0.11
+c	d	0.34
+c	e	0.84
+d	e	0.5
