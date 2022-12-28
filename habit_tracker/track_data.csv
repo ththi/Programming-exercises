@@ -1,0 +1,79 @@
+Day,Date_day,Date_month,Year,Day_count,Week_count,Habit_name,Habit_period
+Thursday,1,9,2022,244,35,Walk 10k,weekly
+Friday,2,9,2022,245,35,Walk 10k,weekly
+Sunday,4,9,2022,247,35,Walk 10k,weekly
+Monday,5,9,2022,248,36,Walk 10k,weekly
+Wednesday,7,9,2022,250,36,Walk 10k,weekly
+Thursday,8,9,2022,251,36,Walk 10k,weekly
+Friday,9,9,2022,252,36,Walk 10k,weekly
+Saturday,10,9,2022,253,36,Walk 10k,weekly
+Monday,12,9,2022,255,37,Walk 10k,weekly
+Tuesday,13,9,2022,256,37,Walk 10k,weekly
+Wednesday,14,9,2022,257,37,Walk 10k,weekly
+Friday,16,9,2022,259,37,Walk 10k,weekly
+Saturday,17,9,2022,260,37,Walk 10k,weekly
+Thursday,22,9,2022,265,38,Walk 10k,weekly
+Tuesday,27,9,2022,270,39,Walk 10k,weekly
+Wednesday,28,9,2022,271,39,Walk 10k,weekly
+Thursday,29,9,2022,272,39,Walk 10k,weekly
+Tuesday,06,12,2022,340,49,Walk 10k,weekly
+Thursday,1,9,2022,244,35,Exercise,weekly
+Friday,2,9,2022,245,35,Exercise,weekly
+Saturday,3,9,2022,246,35,Exercise,weekly
+Sunday,4,9,2022,247,35,Exercise,weekly
+Wednesday,14,9,2022,257,37,Exercise,weekly
+Wednesday,21,9,2022,264,38,Exercise,weekly
+Friday,23,9,2022,266,38,Exercise,weekly
+Tuesday,27,9,2022,270,39,Exercise,weekly
+Thursday,29,9,2022,272,39,Exercise,weekly
+Thursday,1,9,2022,244,35,Learn new stuff,daily
+Saturday,3,9,2022,246,35,Learn new stuff,daily
+Thursday,8,9,2022,251,36,Learn new stuff,daily
+Sunday,11,9,2022,254,36,Learn new stuff,daily
+Monday,12,9,2022,255,37,Learn new stuff,daily
+Tuesday,13,9,2022,256,37,Learn new stuff,daily
+Wednesday,14,9,2022,257,37,Learn new stuff,daily
+Thursday,15,9,2022,258,37,Learn new stuff,daily
+Saturday,17,9,2022,260,37,Learn new stuff,daily
+Monday,19,9,2022,262,38,Learn new stuff,daily
+Tuesday,20,9,2022,263,38,Learn new stuff,daily
+Wednesday,21,9,2022,264,38,Learn new stuff,daily
+Saturday,24,9,2022,267,38,Learn new stuff,daily
+Sunday,25,9,2022,268,38,Learn new stuff,daily
+Wednesday,28,9,2022,271,39,Learn new stuff,daily
+Thursday,29,9,2022,272,39,Learn new stuff,daily
+Tuesday,06,12,2022,340,49,Learn new stuff,daily
+Thursday,1,9,2022,244,35,Call Friends,daily
+Sunday,4,9,2022,247,35,Call Friends,daily
+Monday,5,9,2022,248,36,Call Friends,daily
+Tuesday,6,9,2022,249,36,Call Friends,daily
+Thursday,8,9,2022,251,36,Call Friends,daily
+Saturday,10,9,2022,253,36,Call Friends,daily
+Sunday,11,9,2022,254,36,Call Friends,daily
+Monday,12,9,2022,255,37,Call Friends,daily
+Tuesday,13,9,2022,256,37,Call Friends,daily
+Friday,16,9,2022,259,37,Call Friends,daily
+Monday,19,9,2022,262,38,Call Friends,daily
+Tuesday,20,9,2022,263,38,Call Friends,daily
+Wednesday,21,9,2022,264,38,Call Friends,daily
+Thursday,22,9,2022,265,38,Call Friends,daily
+Sunday,25,9,2022,268,38,Call Friends,daily
+Monday,26,9,2022,269,39,Call Friends,daily
+Tuesday,27,9,2022,270,39,Call Friends,daily
+Wednesday,28,9,2022,271,39,Call Friends,daily
+Friday,30,9,2022,273,39,Call Friends,daily
+Friday,2,9,2022,245,35,Meditate,daily
+Sunday,4,9,2022,247,35,Meditate,daily
+Monday,5,9,2022,248,36,Meditate,daily
+Tuesday,6,9,2022,249,36,Meditate,daily
+Saturday,10,9,2022,253,36,Meditate,daily
+Sunday,11,9,2022,254,36,Meditate,daily
+Tuesday,13,9,2022,256,37,Meditate,daily
+Wednesday,14,9,2022,257,37,Meditate,daily
+Thursday,15,9,2022,258,37,Meditate,daily
+Friday,16,9,2022,259,37,Meditate,daily
+Saturday,17,9,2022,260,37,Meditate,daily
+Sunday,18,9,2022,261,37,Meditate,daily
+Tuesday,20,9,2022,263,38,Meditate,daily
+Wednesday,21,9,2022,264,38,Meditate,daily
+Friday,23,9,2022,266,38,Meditate,daily
